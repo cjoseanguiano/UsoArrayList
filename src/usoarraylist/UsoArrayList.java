@@ -38,6 +38,8 @@ public class UsoArrayList {
         //Obtener valores del ultimo 
         String b = nombre.get(nombre.size()-1);
         System.out.println(b);
+        
+        System.out.println(a + " " + b);
     }
     
 }
